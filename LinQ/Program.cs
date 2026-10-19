@@ -155,7 +155,8 @@ namespace LinQ
             #endregion
 
             #region Sort first by-word length and then by a case -insensitive sort of the words in an array.
-            //can not do that question 
+            //can not do that question
+            
             #endregion
 
             #region Create a list of all digits in the array whose second letter is 'i' that is reversed from the order in the original array.
