@@ -39,6 +39,7 @@ namespace LinQ
 
             #region Sort all products by UnitPrice (ascending). Print each product's name and price.
 
+
             var result3 = Source.ProductList
                 .OrderBy(p => p.UnitPrice);
 
