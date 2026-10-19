@@ -13,6 +13,7 @@ namespace LinQ
         {
             #region Get all products from the "Seafood" category. Print each product's name and price.
 
+
             var result = Source.ProductList
                 .Where(p => p.Category == "Seafood");
 
