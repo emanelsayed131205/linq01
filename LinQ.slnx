@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Models/">
+    <File Path="LinQ/Order.cs" />
+    <File Path="LinQ/Product.cs" />
+    <File Path="LinQ/Program.cs" />
+    <File Path="LinQ/Source.cs" />
+  </Folder>
+  <Project Path="LinQ/LinQ.csproj" />
+</Solution>
