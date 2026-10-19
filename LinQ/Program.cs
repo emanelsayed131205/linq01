@@ -64,6 +64,7 @@ namespace LinQ
             #endregion
 
             #region Get all products that are in stock (UnitsInStock > 0) and belong to the "Condiments" category.
+
             var result5 = Source.ProductList
                 .Where(P => P.UnitsInStock > 0 && P.Category == "Condiments");
 
