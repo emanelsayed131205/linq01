@@ -26,6 +26,7 @@ namespace LinQ
 
             #region Get a list of only the product names from ProductList. Print each name.
 
+
             var result2 = Source.ProductList
                 .Select(p => p.ProductName);
 
