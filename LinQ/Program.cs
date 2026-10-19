@@ -100,6 +100,7 @@ namespace LinQ
             {
                 Console.WriteLine(item);
             }
+
             #endregion
 
             #region Sort ProductList by Category ascending, then within each category, sort by UnitPrice descending.
