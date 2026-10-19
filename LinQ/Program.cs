@@ -161,6 +161,7 @@ namespace LinQ
 
             #region Create a list of all digits in the array whose second letter is 'i' that is reversed from the order in the original array.
             //some ai help
+
             string[] Arr = { "aPPLE", "AbAcUs", "bRaNcH", "BIUeBeRrY", "ClOvEr", "cHeRry" };
 
             var result13 = Arr
